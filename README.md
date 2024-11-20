@@ -25,9 +25,9 @@ This tool is ideal for:
 - **Folder and File Handling**: Recursively traverses directories to identify image files and display them in structured columns.
 - **Dynamic Canvas Layout**: Automatically adjusts the canvas size and positioning of images and labels, ensuring clarity and usability.
 
-#### Screenshots:
+#### Demonstration:
 
-
+![Animation](https://github.com/user-attachments/assets/555b13c7-26b4-4181-a845-f8b0fc6a010a)
 
 #### Installation
 1. Clone the repository:
