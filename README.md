@@ -27,7 +27,7 @@ This tool is ideal for:
 
 #### Demonstration:
 
-![Animation](https://github.com/user-attachments/assets/555b13c7-26b4-4181-a845-f8b0fc6a010a)
+![Animation](https://github.com/user-attachments/assets/a8ba78da-6086-4c98-b587-0ef49cb8d71b)
 
 #### Installation
 1. Clone the repository:
