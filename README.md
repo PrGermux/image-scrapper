@@ -27,7 +27,7 @@ This tool is ideal for:
 
 #### Demonstration:
 
-![388078018-555b13c7-26b4-4181-a845-f8b0fc6a010a](https://github.com/user-attachments/assets/ada908f3-0b9e-4a6e-b5bc-4dfabc9667df)
+![Animation](https://github.com/user-attachments/assets/ada908f3-0b9e-4a6e-b5bc-4dfabc9667df)
 
 #### Installation
 1. Clone the repository:
